@@ -1,7 +1,7 @@
 - 🏦 Somos uma nova empresa focada em segurança e monitoramento.
 - 👀 Em Breve teremos atualizações em nosso GitHub compartilhando nossos avanços.
 
-- Qual é o foco de vocês?
+- > Qual é o foco de vocês?
 - 🤖 Thinking...
 
 <!---
